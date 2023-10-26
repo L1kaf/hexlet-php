@@ -1,0 +1,16 @@
+{
+    "name": "likaf/hexlet-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Likaf\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Buryka",
+            "email": "l1kaf@yandex.ru"
+        }
+    ],
+    "require": {}
+}
