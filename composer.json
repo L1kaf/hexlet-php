@@ -4,7 +4,8 @@
     "autoload": {
         "psr-4": {
             "Likaf\\HexletPhp\\": "src/"
-        }
+        },
+	"files": ["src/Runner.php"]
     },
     "authors": [
         {
@@ -12,5 +13,7 @@
             "email": "l1kaf@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
